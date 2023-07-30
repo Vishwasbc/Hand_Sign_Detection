@@ -1,0 +1,9 @@
+pandas
+numpy
+mediapipe
+opencv-python
+matplotlib
+tensorflow
+flask
+
+-e .
